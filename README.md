@@ -2,7 +2,8 @@
 "CleanTone" is a system designed to identify and eliminate speech disfluencies, such as silent pauses and filler words using advanced algorithms. It enhances the overall fluency and clarity of speech.
 
 # Abstract
-This project focuses on enhancing spoken communication by addressing interruptions and disruptions in speech, such as hesitations and moments of pause. The smoothness and coherence of speech are critical for effective communication, and thus, advanced technological solutions are employed to identify and rectify these disfluencies. During playback of audio recordings, strategic insertion of interrogative prompts fosters active engagement and comprehension among listeners. These strategically placed inquiries stimulate cognitive processing and encourage deeper engagement with the content.
+This project focuses on enhancing spoken communication by addressing interruptions and disruptions in speech, such as hesitations and moments of pause. The smoothness and coherence of speech are critical for effective communication, and thus, advanced technological solutions are employed to identify and rectify these disfluencies. During playback of audio recordings, strategic insertion of interrogative prompts fosters active 
+engagement and comprehension among listeners. These strategically placed inquiries stimulate cognitive processing and encourage deeper engagement with the content.
 
 In summary, our endeavour seeks to elevate the quality of spoken communication by employing advanced methodologies for disfluency detection and removal.
 
