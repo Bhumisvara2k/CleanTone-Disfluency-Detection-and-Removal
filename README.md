@@ -11,11 +11,11 @@ In such instances, there is a need for the detection and removal of these disflu
 ![image](https://github.com/854pooja/CleanTone-Disfluency-Detection-and-Removal/assets/98600682/3b51b6c2-24cc-4d1d-bbef-13f2d17f70fc)
 
 # Requirements
-. Google Colab
+1. Google Colab
 2. Whisper-timestamped
-google-generativeai
-ffmpeg-python
-moviepy
+3. google-generativeai
+4. ffmpeg-python
+5. moviepy
 
 # Contact
 Mr. Bhumisvara K -- k.bhumisvara@gmail.com
